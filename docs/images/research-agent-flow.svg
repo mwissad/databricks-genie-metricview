@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400">
+  <defs>
+    <linearGradient id="questionGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5c6bc0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3949ab;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#26a69a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00897b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="resultGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef5350;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="400" fill="#f5f5f5"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">How Research Agent Works</text>
+  
+  <!-- Question Box -->
+  <rect x="150" y="50" width="400" height="50" rx="25" fill="url(#questionGrad)" filter="url(#dropShadow)"/>
+  <text x="350" y="82" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">"Why did Store STR008 profit margin drop?"</text>
+  
+  <!-- Arrow down -->
+  <path d="M350 105 L350 125" stroke="#666" stroke-width="2" fill="none"/>
+  <polygon points="345,125 350,135 355,125" fill="#666"/>
+  
+  <!-- Step 1 -->
+  <rect x="50" y="140" width="180" height="80" rx="10" fill="url(#stepGrad)" filter="url(#dropShadow)"/>
+  <text x="140" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">1️⃣ PARSE</text>
+  <text x="140" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Entity: Store STR008</text>
+  <text x="140" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Metric: profit_margin</text>
+  <text x="140" y="215" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Context: decline</text>
+  
+  <!-- Arrow right -->
+  <path d="M235 180 L255 180" stroke="#666" stroke-width="2" fill="none"/>
+  <polygon points="255,176 265,180 255,184" fill="#666"/>
+  
+  <!-- Step 2 -->
+  <rect x="270" y="140" width="180" height="80" rx="10" fill="url(#stepGrad)" filter="url(#dropShadow)"/>
+  <text x="360" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">2️⃣ ANALYZE</text>
+  <text x="360" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">• Compare periods</text>
+  <text x="360" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">• Check costs</text>
+  <text x="360" y="215" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">• Review discounts</text>
+  
+  <!-- Arrow right -->
+  <path d="M455 180 L475 180" stroke="#666" stroke-width="2" fill="none"/>
+  <polygon points="475,176 485,180 475,184" fill="#666"/>
+  
+  <!-- Step 3 -->
+  <rect x="490" y="140" width="160" height="80" rx="10" fill="url(#stepGrad)" filter="url(#dropShadow)"/>
+  <text x="570" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">3️⃣ SYNTHESIZE</text>
+  <text x="570" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Correlate findings</text>
+  <text x="570" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Identify root causes</text>
+  <text x="570" y="215" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Generate insights</text>
+  
+  <!-- Arrow down from center -->
+  <path d="M350 225 L350 250" stroke="#666" stroke-width="2" fill="none"/>
+  <polygon points="345,250 350,260 355,250" fill="#666"/>
+  
+  <!-- Result Box -->
+  <rect x="75" y="265" width="550" height="120" rx="12" fill="url(#resultGrad)" filter="url(#dropShadow)"/>
+  <text x="350" y="290" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">📋 RESULT</text>
+  
+  <text x="100" y="315" fill="white" font-family="Arial, sans-serif" font-size="11">"Profit margin dropped from 66% → 40% due to:"</text>
+  <text x="120" y="335" fill="white" font-family="Arial, sans-serif" font-size="10">1. Operating costs +23% (training program)</text>
+  <text x="120" y="352" fill="white" font-family="Arial, sans-serif" font-size="10">2. Basket size dropped 15%</text>
+  <text x="120" y="369" fill="white" font-family="Arial, sans-serif" font-size="10">3. Discount rate 18% vs 10% target → Recommendation: Review promotions</text>
+</svg>

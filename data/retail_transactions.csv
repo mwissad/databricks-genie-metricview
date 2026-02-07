@@ -1,0 +1,101 @@
+TransactionID,StoreID,StoreCity,CustomerID,CustomerSegment,TransactionDateTime,ProductID,ProductName,Category,Quantity,UnitPrice,DiscountPercent,TotalAmount,PaymentMethod
+TXN318716,STR007,Metro City,CUST49373,VIP,2024-04-06 21:20:00,P002,Fresh Tomatoes 1kg,Fresh Produce,4,8.2,10,29.52,Mobile Payment
+TXN596519,STR017,East Town,CUST69321,VIP,2024-06-10 18:46:00,P004,Samsung TV 55inch,Electronics,2,4500.0,0,9000.0,Cash
+TXN773819,STR004,Capital City,CUST23995,New,2024-10-31 17:29:00,P006,Fresh Bread,Bakery,9,3.5,10,28.35,Credit Card
+TXN801719,STR005,North Port,CUST60867,Premium,2024-06-25 08:27:00,P008,Chicken Breast 1kg,Meat & Poultry,3,65.0,0,195.0,Credit Card
+TXN135937,STR016,Metro City,CUST46408,Regular,2024-04-21 18:09:00,P005,Shampoo 400ml,Personal Care,5,28.9,0,144.5,Cash
+TXN557168,STR002,North Port,CUST25738,VIP,2024-06-03 17:50:00,P009,Rice 5kg,Groceries,9,55.0,0,495.0,Debit Card
+TXN854289,STR009,North Port,CUST45326,VIP,2024-12-11 15:35:00,P010,Bananas 1kg,Fresh Produce,9,12.5,0,112.5,Cash
+TXN210074,STR004,Downtown,CUST34628,Regular,2024-12-14 21:43:00,P004,Samsung TV 55inch,Electronics,5,4500.0,0,22500.0,Cash
+TXN225281,STR004,East Town,CUST84403,VIP,2024-08-10 15:42:00,P005,Shampoo 400ml,Personal Care,10,28.9,0,289.0,Debit Card
+TXN328567,STR014,North Port,CUST84352,New,2024-08-12 18:12:00,P005,Shampoo 400ml,Personal Care,10,28.9,10,260.1,Mobile Payment
+TXN685011,STR012,Central City,CUST20738,VIP,2024-11-30 20:51:00,P009,Rice 5kg,Groceries,2,55.0,15,93.5,Cash
+TXN922095,STR019,Coastal Bay,CUST82971,Premium,2024-06-13 12:16:00,P005,Shampoo 400ml,Personal Care,3,28.9,0,86.7,Credit Card
+TXN570480,STR014,Mountain View,CUST28803,Regular,2024-12-16 11:45:00,P004,Samsung TV 55inch,Electronics,6,4500.0,0,27000.0,Debit Card
+TXN427951,STR010,East Town,CUST60964,Premium,2024-03-06 08:35:00,P009,Rice 5kg,Groceries,10,55.0,0,550.0,Cash
+TXN864525,STR002,Mountain View,CUST54403,VIP,2024-12-20 10:04:00,P004,Samsung TV 55inch,Electronics,4,4500.0,0,18000.0,Cash
+TXN639495,STR005,Coastal Bay,CUST21874,VIP,2024-04-09 21:54:00,P002,Fresh Tomatoes 1kg,Fresh Produce,5,8.2,0,41.0,Debit Card
+TXN181386,STR010,South Beach,CUST13806,Premium,2024-07-07 10:04:00,P002,Fresh Tomatoes 1kg,Fresh Produce,10,8.2,0,82.0,Credit Card
+TXN107653,STR006,Capital City,CUST52848,VIP,2024-06-17 11:33:00,P002,Fresh Tomatoes 1kg,Fresh Produce,8,8.2,0,65.6,Cash
+TXN192967,STR007,East Town,CUST24704,VIP,2024-11-24 22:27:00,P008,Chicken Breast 1kg,Meat & Poultry,9,65.0,5,555.75,Debit Card
+TXN766942,STR009,Metro City,CUST60785,VIP,2024-09-06 14:15:00,P005,Shampoo 400ml,Personal Care,9,28.9,0,260.1,Credit Card
+TXN176890,STR003,Downtown,CUST63714,VIP,2024-12-26 13:10:00,P003,Laundry Detergent,Household Items,3,32.0,15,81.6,Mobile Payment
+TXN863249,STR001,Midtown,CUST17486,New,2024-06-28 17:31:00,P006,Fresh Bread,Bakery,8,3.5,5,26.6,Cash
+TXN154699,STR004,Central City,CUST65579,New,2024-07-14 17:38:00,P005,Shampoo 400ml,Personal Care,1,28.9,0,28.9,Credit Card
+TXN253263,STR016,Midtown,CUST74206,Regular,2024-05-09 08:03:00,P008,Chicken Breast 1kg,Meat & Poultry,5,65.0,0,325.0,Debit Card
+TXN823441,STR001,Midtown,CUST33679,VIP,2024-09-18 13:46:00,P010,Bananas 1kg,Fresh Produce,8,12.5,0,100.0,Debit Card
+TXN564512,STR011,Metro City,CUST92846,New,2024-03-27 17:31:00,P006,Fresh Bread,Bakery,7,3.5,0,24.5,Cash
+TXN285044,STR010,South Beach,CUST75514,New,2024-05-24 16:36:00,P009,Rice 5kg,Groceries,4,55.0,0,220.0,Credit Card
+TXN384000,STR005,South Beach,CUST99885,Regular,2024-10-04 13:46:00,P005,Shampoo 400ml,Personal Care,9,28.9,0,260.1,Debit Card
+TXN331579,STR002,Capital City,CUST51881,Regular,2024-12-11 19:52:00,P010,Bananas 1kg,Fresh Produce,1,12.5,0,12.5,Debit Card
+TXN924447,STR002,Capital City,CUST96346,New,2024-09-14 19:12:00,P001,Olive Oil 1L,Groceries,10,45.5,0,455.0,Debit Card
+TXN443608,STR011,Downtown,CUST97162,New,2024-01-02 09:25:00,P004,Samsung TV 55inch,Electronics,7,4500.0,0,31500.0,Cash
+TXN759993,STR009,East Town,CUST24921,Regular,2024-01-10 16:42:00,P001,Olive Oil 1L,Groceries,2,45.5,0,91.0,Cash
+TXN728127,STR014,Coastal Bay,CUST66193,New,2024-04-05 16:48:00,P003,Laundry Detergent,Household Items,8,32.0,5,243.2,Debit Card
+TXN838131,STR001,North Port,CUST72958,Premium,2024-02-11 21:59:00,P005,Shampoo 400ml,Personal Care,5,28.9,0,144.5,Credit Card
+TXN422220,STR012,East Town,CUST70735,Regular,2024-05-02 08:20:00,P002,Fresh Tomatoes 1kg,Fresh Produce,10,8.2,0,82.0,Debit Card
+TXN937061,STR002,Midtown,CUST22857,Regular,2024-04-18 11:15:00,P006,Fresh Bread,Bakery,9,3.5,5,29.93,Credit Card
+TXN801763,STR015,North Port,CUST45619,Regular,2024-11-17 09:33:00,P007,Milk 1L,Dairy,10,9.8,0,98.0,Debit Card
+TXN877666,STR018,Central City,CUST63057,New,2024-04-27 16:00:00,P004,Samsung TV 55inch,Electronics,7,4500.0,0,31500.0,Cash
+TXN743894,STR020,Midtown,CUST79835,New,2024-01-27 20:13:00,P008,Chicken Breast 1kg,Meat & Poultry,7,65.0,0,455.0,Mobile Payment
+TXN585763,STR002,East Town,CUST68936,VIP,2024-11-28 21:09:00,P001,Olive Oil 1L,Groceries,3,45.5,0,136.5,Cash
+TXN103917,STR006,Midtown,CUST98297,Premium,2024-05-13 13:08:00,P002,Fresh Tomatoes 1kg,Fresh Produce,1,8.2,0,8.2,Mobile Payment
+TXN338247,STR001,Central City,CUST30712,Premium,2024-02-15 16:20:00,P009,Rice 5kg,Groceries,7,55.0,0,385.0,Cash
+TXN252559,STR003,Coastal Bay,CUST31611,VIP,2024-07-09 16:40:00,P002,Fresh Tomatoes 1kg,Fresh Produce,2,8.2,0,16.4,Debit Card
+TXN534101,STR001,Coastal Bay,CUST58600,New,2024-07-18 21:50:00,P002,Fresh Tomatoes 1kg,Fresh Produce,7,8.2,0,57.4,Debit Card
+TXN416775,STR011,Capital City,CUST89824,Premium,2024-04-10 12:06:00,P006,Fresh Bread,Bakery,8,3.5,0,28.0,Mobile Payment
+TXN814791,STR003,Capital City,CUST51626,New,2024-11-26 08:41:00,P002,Fresh Tomatoes 1kg,Fresh Produce,8,8.2,0,65.6,Mobile Payment
+TXN908874,STR001,Midtown,CUST24997,VIP,2024-03-03 19:17:00,P008,Chicken Breast 1kg,Meat & Poultry,3,65.0,0,195.0,Debit Card
+TXN513085,STR004,North Port,CUST18493,New,2024-12-25 11:32:00,P004,Samsung TV 55inch,Electronics,4,4500.0,0,18000.0,Credit Card
+TXN621695,STR003,East Town,CUST69450,VIP,2024-06-15 15:08:00,P003,Laundry Detergent,Household Items,10,32.0,15,272.0,Debit Card
+TXN529706,STR002,Central City,CUST59589,New,2024-01-21 19:35:00,P006,Fresh Bread,Bakery,7,3.5,0,24.5,Cash
+TXN608779,STR004,South Beach,CUST91104,Regular,2024-07-10 19:55:00,P006,Fresh Bread,Bakery,4,3.5,0,14.0,Cash
+TXN951992,STR017,East Town,CUST91832,New,2024-09-02 20:51:00,P007,Milk 1L,Dairy,6,9.8,0,58.8,Mobile Payment
+TXN325251,STR001,Capital City,CUST53383,New,2024-06-06 11:49:00,P006,Fresh Bread,Bakery,10,3.5,0,35.0,Cash
+TXN278698,STR001,Coastal Bay,CUST36984,New,2024-10-24 10:08:00,P001,Olive Oil 1L,Groceries,6,45.5,10,245.7,Debit Card
+TXN113609,STR014,Central City,CUST47021,Regular,2024-10-23 13:56:00,P010,Bananas 1kg,Fresh Produce,2,12.5,15,21.25,Cash
+TXN445343,STR007,Coastal Bay,CUST73409,Regular,2024-05-12 12:10:00,P003,Laundry Detergent,Household Items,1,32.0,0,32.0,Mobile Payment
+TXN816866,STR007,Downtown,CUST48639,Regular,2024-12-18 10:49:00,P005,Shampoo 400ml,Personal Care,8,28.9,0,231.2,Mobile Payment
+TXN313738,STR018,Downtown,CUST15774,Regular,2024-04-06 12:08:00,P004,Samsung TV 55inch,Electronics,3,4500.0,0,13500.0,Mobile Payment
+TXN777960,STR010,Metro City,CUST58973,Premium,2024-08-05 11:40:00,P001,Olive Oil 1L,Groceries,5,45.5,0,227.5,Debit Card
+TXN265123,STR017,East Town,CUST15349,New,2024-12-21 15:12:00,P007,Milk 1L,Dairy,6,9.8,20,47.04,Cash
+TXN582460,STR003,Capital City,CUST60096,Regular,2024-04-03 22:14:00,P006,Fresh Bread,Bakery,1,3.5,10,3.15,Credit Card
+TXN702415,STR004,Coastal Bay,CUST67524,Premium,2024-05-16 13:47:00,P006,Fresh Bread,Bakery,7,3.5,0,24.5,Cash
+TXN770880,STR011,Metro City,CUST15535,Regular,2024-02-13 17:19:00,P002,Fresh Tomatoes 1kg,Fresh Produce,9,8.2,15,62.73,Mobile Payment
+TXN838941,STR017,Capital City,CUST38710,Premium,2024-04-07 21:49:00,P005,Shampoo 400ml,Personal Care,1,28.9,0,28.9,Debit Card
+TXN443829,STR018,Capital City,CUST43384,New,2024-05-14 19:26:00,P006,Fresh Bread,Bakery,3,3.5,0,10.5,Mobile Payment
+TXN895203,STR009,Midtown,CUST69513,Premium,2024-02-06 21:33:00,P005,Shampoo 400ml,Personal Care,5,28.9,5,137.28,Cash
+TXN708058,STR002,Central City,CUST31537,Premium,2024-10-23 10:04:00,P001,Olive Oil 1L,Groceries,8,45.5,0,364.0,Mobile Payment
+TXN533449,STR005,Central City,CUST80573,Regular,2024-11-27 21:24:00,P006,Fresh Bread,Bakery,6,3.5,5,19.95,Cash
+TXN298050,STR005,North Port,CUST92832,New,2024-07-01 18:39:00,P002,Fresh Tomatoes 1kg,Fresh Produce,5,8.2,0,41.0,Mobile Payment
+TXN459038,STR004,South Beach,CUST35277,Regular,2024-05-25 17:03:00,P002,Fresh Tomatoes 1kg,Fresh Produce,3,8.2,0,24.6,Cash
+TXN472647,STR012,Midtown,CUST58141,VIP,2024-01-23 19:24:00,P007,Milk 1L,Dairy,10,9.8,0,98.0,Credit Card
+TXN339670,STR017,North Port,CUST74961,New,2024-12-02 21:04:00,P001,Olive Oil 1L,Groceries,2,45.5,0,91.0,Credit Card
+TXN309956,STR009,East Town,CUST61600,New,2024-02-18 16:25:00,P009,Rice 5kg,Groceries,2,55.0,0,110.0,Debit Card
+TXN772287,STR019,South Beach,CUST63908,New,2024-05-19 21:16:00,P008,Chicken Breast 1kg,Meat & Poultry,1,65.0,10,58.5,Debit Card
+TXN876892,STR018,Metro City,CUST36882,Premium,2024-07-25 14:41:00,P003,Laundry Detergent,Household Items,10,32.0,0,320.0,Credit Card
+TXN118128,STR007,Central City,CUST77285,New,2024-07-08 17:29:00,P002,Fresh Tomatoes 1kg,Fresh Produce,6,8.2,0,49.2,Cash
+TXN553689,STR014,Downtown,CUST22148,VIP,2024-05-14 19:28:00,P007,Milk 1L,Dairy,9,9.8,0,88.2,Debit Card
+TXN947675,STR004,Midtown,CUST61897,Regular,2024-07-24 14:27:00,P002,Fresh Tomatoes 1kg,Fresh Produce,3,8.2,0,24.6,Mobile Payment
+TXN138936,STR001,Coastal Bay,CUST35195,VIP,2024-07-16 22:26:00,P002,Fresh Tomatoes 1kg,Fresh Produce,7,8.2,0,57.4,Debit Card
+TXN380205,STR015,Midtown,CUST73184,New,2024-08-07 22:27:00,P007,Milk 1L,Dairy,6,9.8,0,58.8,Debit Card
+TXN973194,STR009,Capital City,CUST80296,Regular,2024-03-03 15:56:00,P001,Olive Oil 1L,Groceries,8,45.5,0,364.0,Debit Card
+TXN935082,STR009,Midtown,CUST46272,Regular,2024-07-04 19:34:00,P009,Rice 5kg,Groceries,4,55.0,0,220.0,Cash
+TXN254788,STR008,Central City,CUST73951,New,2024-03-27 16:20:00,P009,Rice 5kg,Groceries,4,55.0,0,220.0,Credit Card
+TXN737023,STR013,Mountain View,CUST35360,Regular,2024-10-20 09:27:00,P006,Fresh Bread,Bakery,10,3.5,0,35.0,Credit Card
+TXN171967,STR009,East Town,CUST97878,New,2024-04-05 15:10:00,P007,Milk 1L,Dairy,3,9.8,0,29.4,Debit Card
+TXN588352,STR012,South Beach,CUST48895,New,2024-07-31 14:31:00,P009,Rice 5kg,Groceries,7,55.0,0,385.0,Debit Card
+TXN392633,STR015,Metro City,CUST50573,New,2024-07-18 10:14:00,P004,Samsung TV 55inch,Electronics,2,4500.0,0,9000.0,Mobile Payment
+TXN292690,STR016,Mountain View,CUST96484,Regular,2024-12-14 08:50:00,P010,Bananas 1kg,Fresh Produce,1,12.5,20,10.0,Cash
+TXN919587,STR005,Midtown,CUST68766,New,2024-04-01 13:38:00,P005,Shampoo 400ml,Personal Care,5,28.9,0,144.5,Cash
+TXN711354,STR013,Midtown,CUST46168,Premium,2024-01-28 12:45:00,P008,Chicken Breast 1kg,Meat & Poultry,3,65.0,0,195.0,Cash
+TXN186492,STR003,East Town,CUST62480,New,2024-03-27 13:39:00,P004,Samsung TV 55inch,Electronics,8,4500.0,0,36000.0,Credit Card
+TXN315316,STR016,Capital City,CUST72714,Regular,2024-10-02 21:16:00,P009,Rice 5kg,Groceries,4,55.0,5,209.0,Debit Card
+TXN763809,STR002,Downtown,CUST92736,New,2024-06-03 19:11:00,P006,Fresh Bread,Bakery,6,3.5,0,21.0,Credit Card
+TXN428288,STR014,Midtown,CUST29896,Premium,2024-08-31 10:05:00,P005,Shampoo 400ml,Personal Care,2,28.9,0,57.8,Credit Card
+TXN869817,STR003,Mountain View,CUST36141,Regular,2024-09-18 09:08:00,P006,Fresh Bread,Bakery,1,3.5,0,3.5,Cash
+TXN128250,STR005,East Town,CUST26945,Regular,2024-07-25 16:37:00,P002,Fresh Tomatoes 1kg,Fresh Produce,7,8.2,0,57.4,Debit Card
+TXN857270,STR010,Central City,CUST81642,VIP,2024-06-10 18:04:00,P008,Chicken Breast 1kg,Meat & Poultry,2,65.0,0,130.0,Debit Card
+TXN128145,STR010,South Beach,CUST36570,Regular,2024-01-03 10:04:00,P003,Laundry Detergent,Household Items,7,32.0,0,224.0,Mobile Payment
+TXN654700,STR015,Mountain View,CUST56091,New,2024-01-15 19:53:00,P001,Olive Oil 1L,Groceries,10,45.5,0,455.0,Mobile Payment
+TXN276429,STR007,Downtown,CUST18668,Premium,2024-10-23 16:56:00,P004,Samsung TV 55inch,Electronics,4,4500.0,0,18000.0,Cash
