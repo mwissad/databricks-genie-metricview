@@ -1,6 +1,6 @@
 # Building AI-Powered Analytics with Databricks Metric Views, Genie & Research Agent
 
-**Data Ingestion → Unity Catalog → Metric Views → Genie AI → Alerts & Research Agent**
+**Data Ingestion → Unity Catalog → Metric Views → Genie → Alerts & Research Agent**
 
 ---
 
@@ -37,7 +37,7 @@ This creates **more problems**:
 - **Self-documenting** — Comments explain business logic
 - **Governed** — Unity Catalog controls access and tracks lineage
 
-Combined with **Genie AI**, anyone can query these standardized metrics using natural language.
+Combined with **Databricks Genie**, anyone can query these standardized metrics using natural language.
 
 Here's the complete end-to-end implementation.
 
